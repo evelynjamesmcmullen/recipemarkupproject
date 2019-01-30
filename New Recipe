@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title> Nanaimo Bars Recipe </title>
+</head>
+<body>
+
+<h1> Nanaimo Bars</h1>
+<p class="byline"> By <author> "Cooking Classy" </author>
+</p>
+
+<img src="http://media.foodnetwork.ca/recipetracker/9c1f2bc3-4c8a-4639-951b-5077e790b0d9_ultimate-nanaimo-bar_WebReady.jpg" alt="nanaimos">
+
+
+<p>
+
+Because it's three layers, this sounds hard but is actually quite easy once you gather the ingredients. Nanaimo bars are
+usually sold in British Columbia and are an <i>extremely</i> delicious no-bake treat.
+
+</p>
+
+<section class="list" id="ingredients">
+<h2>Ingredients</h2>
+  <h3> Bottom Layer </h3>
+<ul>
+<li>½ cup salted butter, diced into pieces</li>
+  <li>⅓ cup packed light brown sugar</li>
+    <li>3 tbsp cocoa Powder</li>
+      <li> 1 large egg, lightly beaten </li>
+        <li> 1 ½ tsp vanilla extract </li>
+          <li> 1 ¾ cup graham cracker crumbs </li>
+            <li> 1 cup sweetened shredded coconut </li>
+              <li> ½ cup finely chopped pecans or almonds </li>
+</ul>
+</section>
+
+  <h3> Filling </h3>
+  <section class="list" id="filling">
+<ul>
+<li>⅓ cup salted butter, softened</li>
+  <li>¼ cup heavy cream</li>
+    <li>2 Tbsp custard powder or vanilla/white chocolate instant pudding mix</li>
+      <li> 2 cups powdered sugar </li>
+    </ul>
+  </section>
+          <h3> Top Layer </h3>
+  <section class="list" id="top layer">
+<ul>
+<li>4 oz semi-sweet chocolate, chopped</li>
+  <li>2 Tbsp salted butter</li>
+</ul>
+  </section>
+  <section class="list" id="Instructions">
+<h2>Instructions</h2>
+  <ol type="1">
+  <li>Melt butter in a medium saucepan over medium heat. Remove from heat, add in brown sugar and cocoa powder and whisk until well combine. While whisking vigorously, slowly pour in beaten egg. Return mixture to heat and cook for 1 - 2 minutes until mixture has thickened. Remove from heat, stir in vanilla. Add in graham cracker crumbs, coconut, and pecans and toss until evenly coated. Press mixture into a buttered 8 by 8-inch or 9 by 9-inch baking dish. Cover with plastic wrap, place in freezer for 20 minutes or refrigerate for 40 minutes</li>
+    <li>In a mixing bowl, using and electric hand mixer set on medium speed, whip together butter, heavy cream and custard powder until smooth and fluffy, about 2 minutes. Stir in powdered sugar and blend until mixture is smooth and creamy, about 1 minute (mixture may seem dry at first but should start to come together). Spread mixture into an even layer over chilled graham cracker base. Cover with plastic wrap and freeze for 15 minutes or refrigerate for 30 minutes.</li>
+      <li>Melt semi-sweet chocolate along with butter in a heat proof bowl, set over a pot of simmering water. Spread mixture into an even layer over filling layer, cover with plastic wrap and chill in refrigerator for 10 minutes until chocolate has set. Cut into squares, store in an airtight container.</li>
+  </ol>
+  </section>
+  <footer>
+    <p> Originally Posted by: Cooking Classy </p>
+    <p>Contact information: <a href="cookingclassy@gmail.com">cookingclassy@gmail.com</a>.</p>
+  </footer>
+
+</body>
