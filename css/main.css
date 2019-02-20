@@ -14,7 +14,7 @@ h1
 }
 
 h2{
-  color: red;
+  color:#80503d;
   font-size: large;
 
 }
@@ -36,6 +36,7 @@ ol
 
 
 body {
+ background-color:#ffffcc;
 font-family: georgia, "times new roman", serif;
 font-size: medium;
 
