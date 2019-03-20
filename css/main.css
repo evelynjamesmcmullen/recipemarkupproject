@@ -9,7 +9,7 @@ h1
  {
 
   color: red;
-  font-size: x large;
+  font-size: x-large;
   text-transform: uppercase;
 }
 
@@ -26,8 +26,8 @@ h3{
 ul,
 ol
 {
-  line-height: 2.5;
- margin-top: 1.5 em;
+  line-height: 2.5em;
+ margin-top: 1.5em;
  border-width:5px;
     border-style:dotted;
   border-color:red;
